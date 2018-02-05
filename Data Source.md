@@ -2,10 +2,10 @@
 
 Recipe and member pages (examples below) were scraped using both a local machine and AWS EC2 instances and stored in an S3 bucket.  
 
-<img src="https://github.com/q0j0p/food/blob/master/notes/resources/shorecook.png" width="300">
+<img src="shorecook.png" width="300">
 
 
-<img src="https://github.com/q0j0p/food/blob/master/notes/resources/recipe2.png" width="300">
+<img src="recipe2.png" width="300">
 
 
 
