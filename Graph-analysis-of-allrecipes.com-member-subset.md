@@ -7,5 +7,6 @@ Selecting the biggest connected component and differentiating the nodes accordin
 
 <img src="https://github.com/q0j0p/food/blob/master/notes/resources/modular_graph.png" width="650">
 
-The next graph illustrates the median fat content of recipes made and "favorited" by each user, depicted by size of node.  
+Do people with similar dietary habits cluster together?  The next graph illustrates the median fat content of recipes made and "favorited" by each user, depicted by size of node.  
 <img src="https://github.com/q0j0p/food/blob/master/notes/resources/median_fat.png" width="650">
+Visual EDA is iffy. 
